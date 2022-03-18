@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I'm Pto, a .NET developer. My skills are:
+- All .NET languages
+- All web languages
 <!--
 **pto-buon/pto-buon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
