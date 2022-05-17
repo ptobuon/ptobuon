@@ -2,12 +2,6 @@
 I'm Pto, a .NET developer. My skills are:
 - All .NET languages
 - All web languages
-
-![Pto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptobuon&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptobuon&layout=compact)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ptobuon&repo=BootNet)
 <!--
 **pto-buon/pto-buon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
