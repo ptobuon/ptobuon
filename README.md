@@ -2,6 +2,8 @@
 I'm Pto, a .NET developer. My skills are:
 - .NET (C#, VB, F#)
 - Web (HTML, CSS, JS)
+- Python
+- Go
 
 ### Stats 📈
 
