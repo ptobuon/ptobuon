@@ -5,7 +5,7 @@ I'm Pto, a .NET developer. My skills are:
 - Python
 - Go
 - PHP
-I contributed to Cosmos, and i create .NET apps and PHP websites. I founded a free hosting company called [Zonar](https://zonar.tk).
+I contributed to Cosmos, and i create .NET apps and PHP websites. I founded a free hosting company called [BitHost](https://bithost.tk).
 
 ### Stats 📈
 
